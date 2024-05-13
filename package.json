@@ -1,10 +1,10 @@
 {
   "name": "react-base",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "General react application services: store, storage, fetch, login",
   "main": "dist/react-base.cjs.js",
   "publishConfig": {
-    "registry": "https://npm.pkg.github.com/@digitoon"
+    "registry": "https://npm.pkg.github.com/digitoon"
   },
   "scripts": {
     "build": "preconstruct build",
